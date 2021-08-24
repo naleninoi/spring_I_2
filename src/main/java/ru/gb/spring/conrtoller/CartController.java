@@ -1,4 +1,4 @@
-package ru.gb.spring.contoller;
+package ru.gb.spring.conrtoller;
 
 import org.springframework.stereotype.Component;
 import ru.gb.spring.service.CartService;
