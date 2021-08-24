@@ -1,7 +1,7 @@
 package ru.gb.spring;
 
 import org.springframework.context.support.ClassPathXmlApplicationContext;
-import ru.gb.spring.conrtoller.CartController;
+import ru.gb.spring.controller.CartController;
 
 public class MainApplication {
 

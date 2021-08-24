@@ -1,4 +1,4 @@
-package ru.gb.spring.conrtoller;
+package ru.gb.spring.controller;
 
 import org.springframework.stereotype.Component;
 import ru.gb.spring.service.CartService;
